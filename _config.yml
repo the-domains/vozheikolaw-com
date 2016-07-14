@@ -1,0 +1,28 @@
+name: Vozheikolaw.com
+favicon: null
+layout_spectrum: 0.18736149976029992
+typography_spectrum: 0.8924826255533844
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3093173960223794
+  lightness: 0.12129637296311557
+  saturation: 0.9819218828342855
+  rhythmicContrast: 0.020949498750269413
+purpose: []
